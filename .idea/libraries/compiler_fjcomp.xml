@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="compiler.fjcomp">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/src/compiler.fjcomp.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
