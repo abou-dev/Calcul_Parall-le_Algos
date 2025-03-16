@@ -53,11 +53,11 @@ ant
 ```
 
 ### Exécution
-
-    Exécution du produit matriciel parallèle
-    Les classes principales se trouvent dans le package parallel et schedule. Utilisez NetBeans ou la ligne de commande pour exécuter les classes correspondantes.
-    Exécution de l’algorithme Fibonacci
-    Pour tester l’algorithme parallèle de Fibonacci, exécutez la classe fjcomp.Fibonacci :
+Exécution du produit matriciel parallèle
+Les classes principales se trouvent dans le package parallel et schedule.
+Utilisez NetBeans ou la ligne de commande pour exécuter les classes correspondantes.
+Exécution de l’algorithme Fibonacci
+Pour tester l’algorithme parallèle de Fibonacci, exécutez la classe fjcomp.Fibonacci :
 
 ```bash
 java -cp out/production/ProjetExamenMaster_IABD_1_2023_2024bis fjcomp.Fibonacci
@@ -65,10 +65,10 @@ java -cp out/production/ProjetExamenMaster_IABD_1_2023_2024bis fjcomp.Fibonacci
 ### Résultats et Analyse
 
 Les performances ont été évaluées en fonction de divers paramètres tels que le nombre de threads, le groupSize pour les produits matriciels et le MaxDepth pour la parallélisation récursive.
-Les documents et graphiques inclus dans le rapport [Projet_Calcul_Parallele_Aboubakar_Saly.docx](doc/Projet_Calcul_Parallele_Aboubakar_Saly.docx) détaillent l’analyse des accélérations et l’identification des paramètres optimaux.
+Les documents et graphiques inclus dans le rapport [Projet_Calcul_Parallele_Aboubakar_Saly.pdf](doc/Projet_Calcul_Parallele_Aboubakar_Saly.pdf) détaillent l’analyse des accélérations et l’identification des paramètres optimaux.
 ### Documentation
 
-Pour plus de détails sur la méthodologie, l’analyse des performances et l’optimisation des algorithmes, consultez le rapport en [Projet_Calcul_Parallele_Aboubakar_Saly.docx](doc/Projet_Calcul_Parallele_Aboubakar_Saly.docx).
+Pour plus de détails sur la méthodologie, l’analyse des performances et l’optimisation des algorithmes, consultez le rapport en [Projet_Calcul_Parallele_Aboubakar_Saly.pdf](doc/Projet_Calcul_Parallele_Aboubakar_Saly.pdf).
 ### Contributeurs
 	Pr Abdourahmane Senghor
     Aboubakar Saly
